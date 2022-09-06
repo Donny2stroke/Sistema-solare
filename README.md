@@ -1,2 +1,2 @@
 # Sistema-solare
-Sistema solare con three.js
+Sistema solare sviluppato con three.js
